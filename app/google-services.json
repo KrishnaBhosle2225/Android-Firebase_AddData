@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "662078628552",
+    "firebase_url": "https://asciieducation-957d4-default-rtdb.firebaseio.com",
+    "project_id": "asciieducation-957d4",
+    "storage_bucket": "asciieducation-957d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662078628552:android:ee141328402da5b9a97bfd",
+        "android_client_info": {
+          "package_name": "com.krishna.firebase_add_data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662078628552-a95hmlohcitbrs90ccgb3jvb3iulr886.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.krishna.firebase_add_data",
+            "certificate_hash": "02c3291de595bd2faff9f85e01cbefb00484cc14"
+          }
+        },
+        {
+          "client_id": "662078628552-droeod17odabttmni482au6trlk149do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM4sSqg9IDbRW0kmKm5XhAQt-7AqyHk-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662078628552-droeod17odabttmni482au6trlk149do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662078628552:android:2ef4c8b48d59c8a9a97bfd",
+        "android_client_info": {
+          "package_name": "com.krishna.firebase_insert_data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662078628552-k1d7456pk6ckh63d6k5mfs5iftef1vgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.krishna.firebase_insert_data",
+            "certificate_hash": "02c3291de595bd2faff9f85e01cbefb00484cc14"
+          }
+        },
+        {
+          "client_id": "662078628552-droeod17odabttmni482au6trlk149do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM4sSqg9IDbRW0kmKm5XhAQt-7AqyHk-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662078628552-droeod17odabttmni482au6trlk149do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
